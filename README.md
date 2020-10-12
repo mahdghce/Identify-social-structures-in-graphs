@@ -1,0 +1,2 @@
+# Identify-social-structures-in-graphs
+The goal of this project is to implement a graph-related algorithm. This algorithm was introduced in 2004 and detects social structures in a graph. By performing experiments on the implementation of this algorithm, you must calculate the amount of memory consumed and runtime for graphs of different sizes. Also, you need to calculate the impact of different sorting algorithms on time and memory consumption.
